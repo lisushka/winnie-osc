@@ -21,7 +21,7 @@
 ## Questions
 
 * **Q:** Why do you smile and laugh at random points during the talk that don't make sense?  
-**A:** I met [Aretmis Munoz](https://www.artemismunoz.com/), the actor and videographer who was behind the camera during the recording, through National Novel Writing Month.  A few aspects of the talk reference features and events that Art was involved in or around for.  Both of us have very expressive faces, so it was hard to make our reactions completely invisible.
+**A:** I met [Artemis Muñoz](https://www.artemismunoz.com/), the actor and videographer who was behind the camera during the recording, through National Novel Writing Month.  A few aspects of the talk reference features and events that Art was involved in or around for.  Both of us have very expressive faces, so it was hard to make our reactions completely invisible.
 
 ## Images
 
