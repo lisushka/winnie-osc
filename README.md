@@ -6,17 +6,19 @@
 
 ## References
 
-### Source code and documentation
+### Winnie's source code and documentation
 
-* [Source code](https://github.com/aigeroni/Winnie_Bot)
-* [Code of Conduct](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/CODE_OF_CONDUCT.md)
-* [Contributing Guidelines]()
-* [Privacy Policy]()
+* [Source code](https://github.com/aigeroni/Winnie_Bot) (GPL 3.0)
+* [Code of Conduct](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/CODE_OF_CONDUCT.md) (CC BY-4.0)
+* [Contributing Guidelines]() (CC BY-4.0)
+* [Privacy Policy]() (CC BY-4.0)
+* [Terms of Use](https://github.com/aigeroni/Winnie_Bot/wiki/Winnie_Bot-Terms-of-Use) (CC BY-4.0)
 
 ### Other
 
 * [National Novel Writing Month](https://nanowrimo.org/)
 * [Discord](https://discord.com/)
+* [Discord API Documentation](https://discord.com/developers/docs/intro)
 
 ## Questions
 
