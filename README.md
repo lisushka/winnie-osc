@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **linux.conf.au 2022**, upcoming
+- **linux.conf.au 2022**, upcoming ([transcript](transcript.md))
 
 ## References
 
