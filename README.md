@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **linux.conf.au 2022**, 2022-01-16 ([transcript](transcript.md))
+- **linux.conf.au 2022**, 2022-01-16 (open captions, [transcript](transcript.md))
 
 ## References
 
