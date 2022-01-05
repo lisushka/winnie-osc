@@ -2,17 +2,17 @@
 
 ## Presentations
 
-- **linux.conf.au 2022**, 2022-01-16 (open captions, [transcript](transcript.md))
+- **linux.conf.au 2022**, 2022-01-16 (open captions, [transcript](transcript.md), CC BY-NC-SA 4.0)
 
 ## References
 
 ### Winnie's source code and documentation
 
 * [Source code](https://github.com/aigeroni/Winnie_Bot) (GPL 3.0)
-* [Code of Conduct](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/CODE_OF_CONDUCT.md) (CC BY-4.0)
-* [Contributing Guidelines](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/CONTRIBUTING.md) (CC BY-4.0)
-* [Privacy Policy](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/PRIVACY.md) (CC BY-4.0)
-* [Terms of Use](https://github.com/aigeroni/Winnie_Bot/wiki/Winnie_Bot-Terms-of-Use) (CC BY-4.0)
+* [Code of Conduct](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/CODE_OF_CONDUCT.md) (CC BY 4.0)
+* [Contributing Guidelines](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/CONTRIBUTING.md) (CC BY 4.0)
+* [Privacy Policy](https://github.com/aigeroni/Winnie_Bot/blob/main-2.0/PRIVACY.md) (CC BY 4.0)
+* [Terms of Use](https://github.com/aigeroni/Winnie_Bot/wiki/Winnie_Bot-Terms-of-Use) (CC BY 4.0)
 
 ### Libraries and Technologies
 
