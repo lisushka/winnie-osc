@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **linux.conf.au 2022**, 2022-01-16 (open captions, [transcript](transcript.md), CC BY-NC-SA 4.0)
+- [**linux.conf.au 2022**](https://www.youtube.com/watch?v=2p6LNq2P05o), 2022-01-16 (open captions, [transcript](transcript.md), CC BY-NC-SA 4.0)
 
 ## References
 
